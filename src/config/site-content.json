@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "varden",
-		"description": "vardenvarden的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"description": "vardenvarden的个人博客。\n记录美好生活。",
 		"username": "varden"
 	},
 	"theme": {
@@ -37,14 +37,18 @@
 			"url": "/images/art/d888b2e699d15477.png"
 		}
 	],
-	"currentArtImageId": "1c7b726fe720679b",
+	"currentArtImageId": "d888b2e699d15477",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "66ebee5fd96a22eb",
+			"url": "/images/background/66ebee5fd96a22eb.jpg"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "66ebee5fd96a22eb",
 	"socialButtons": [
 		{
 			"id": "email",
